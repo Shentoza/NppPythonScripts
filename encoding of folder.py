@@ -1,3 +1,4 @@
+#Script which uses Notepad++ functionality to encode textfiles (.txt, .csv, .cpp or .h) to UTF8
 import os;
 import sys;
 filePathSrc="E:\\Dev\\MasterThesis_Rep\\UE_Project\\Source\\ThesisProject\\"
